@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "F:\\WorkSpace\\Android\\ApiDemos\\app\\build\\intermediates\\res\\merged\\debug\\animator\\fragment_slide_left_exit.xml",
+        "source": "F:\\WorkSpace\\Android\\ApiDemos\\app\\src\\main\\res\\animator\\fragment_slide_left_exit.xml"
+    },
+    {
+        "merged": "F:\\WorkSpace\\Android\\ApiDemos\\app\\build\\intermediates\\res\\merged\\debug\\animator\\fragment_slide_left_enter.xml",
+        "source": "F:\\WorkSpace\\Android\\ApiDemos\\app\\src\\main\\res\\animator\\fragment_slide_left_enter.xml"
+    },
+    {
+        "merged": "F:\\WorkSpace\\Android\\ApiDemos\\app\\build\\intermediates\\res\\merged\\debug\\animator\\fragment_slide_right_enter.xml",
+        "source": "F:\\WorkSpace\\Android\\ApiDemos\\app\\src\\main\\res\\animator\\fragment_slide_right_enter.xml"
+    },
+    {
+        "merged": "F:\\WorkSpace\\Android\\ApiDemos\\app\\build\\intermediates\\res\\merged\\debug\\animator\\circular_image_button_anim.xml",
+        "source": "F:\\WorkSpace\\Android\\ApiDemos\\app\\build\\intermediates\\exploded-aar\\com.google.android.support\\wearable\\2.0.0-alpha3\\res\\animator\\circular_image_button_anim.xml"
+    },
+    {
+        "merged": "F:\\WorkSpace\\Android\\ApiDemos\\app\\build\\intermediates\\res\\merged\\debug\\animator\\fragment_slide_right_exit.xml",
+        "source": "F:\\WorkSpace\\Android\\ApiDemos\\app\\src\\main\\res\\animator\\fragment_slide_right_exit.xml"
+    }
+]
